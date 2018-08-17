@@ -1,4 +1,4 @@
-# Predicting-Loan-Interest-Rates-with-Linear-Regression-and-Gradient-Boosted-Decision-Trees
+# Predicting-Loan-Interest-Rates-with-Linear-Regression-and-Gradient-Boosted-Decision-Tree-Models
 In this project we will be using the publicly available and Kaggle-popular LendingClub data set to train Linear Regression and Extreme 
 Gradient Descent Boosted Decision Tree models to predict interest rates assigned to loans. 
 
